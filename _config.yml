@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to Seoyoung's github!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -18,16 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ahn-seo-young_github
+title: seoyoung_github :)
 email: 22100428@handong.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  우당탕탕 github 정복 이야기
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: bi._.jou_
+github_username:  seoyoung119
 
 # Build settings
 theme: minima
